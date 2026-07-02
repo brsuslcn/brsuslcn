@@ -6,7 +6,7 @@ As an Android developer who is dedicated to attention-to-detail, I constantly se
 
 ## <img src="https://raw.githubusercontent.com/brsuslcn/brsuslcn/main/assets/icons/website.png" width="32" height="32"> &nbsp; Website 
 
-barisuslucan.com 
+https://barisuslucan.com 
 <br><br><br>
 
 ## **Social Media**
